@@ -1,0 +1,5 @@
+- bugs
++ the sequence of the sentence is lost..
++ need to make the sentence with the location based
+
+-> bug fixed
