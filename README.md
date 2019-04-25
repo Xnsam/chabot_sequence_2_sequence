@@ -3,4 +3,4 @@
 
 Sequence to Sequence chatbot demo, using tensorflow
 
-dataset : sample created from its own
+dataset : sample created input and response text files.
